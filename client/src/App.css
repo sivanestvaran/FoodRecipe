@@ -1,0 +1,58 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Inspiration&family=Urbanist:ital,wght@0,100..900;1,100..900&family=Black+Han+Sans&display=swap");
+@import "animate.css";
+
+* {
+  font-family: "Happy Monkey", system-ui;
+}
+
+.text-success {
+  color: #005a32 !important;
+}
+
+.title h1 {
+  font-family: "Inspiration", cursive !important;
+  font-weight: 700;
+}
+
+
+
+.bold-title{
+  font-family: "Black Han Sans", sans-serif;
+  font-weight: 400;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #005a32 !important;
+}
+
+.time-serve > span {
+  font-family: "Urbanist", sans-serif !important;
+  font-weight: 500 !important;
+}
+
+input,
+label,
+button,
+a {
+  font-family: "Urbanist", sans-serif !important;
+  font-weight: 500 !important;
+}
+
+label{
+  font-size: small;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+button > svg{
+  font-size: 18px;
+}
+
+.clean-text{
+  font-family: "Urbanist", sans-serif !important;
+  font-weight: 500 !important;
+}
